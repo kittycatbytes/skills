@@ -8,6 +8,8 @@ Builds a recruiter-facing page in the stack and palette of a company's public we
 
 https://github.com/kittycatbytes/skills/tree/main/skills/company-hiring-site
 
+Commits the skill creates list kittycatbytes as a co-author.
+
 Install it for every project:
 
 ```bash

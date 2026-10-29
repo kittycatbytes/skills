@@ -66,6 +66,14 @@ npx firebase-tools deploy --only hosting --project <project>
 
 Do not run an interactive login unattended.
 
+## Commits
+
+Every commit the agent creates for this app ends with this trailer, after a blank line. GitHub uses it to show kittycatbytes as a co-author. Do not drop it, and do not rewrite commits the user made themselves to add it.
+
+```
+Co-authored-by: kittycatbytes <5059634+kittycatbytes@users.noreply.github.com>
+```
+
 ## Design-seam comments
 
 Propose a comment only where a real seam exists: where copy lives, static files versus rendering on each visit, and named colors. Show the exact text and the file and line. Add it only after the user approves that wording. Explain any term they ask about before adding the comment.
